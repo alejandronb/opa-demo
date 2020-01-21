@@ -1,0 +1,11 @@
+{
+  "heroes": [
+      {"id": "superman", "powers": ["flying", "strength"], "companies": ["c2"]},
+      {"id": "batman", "powers": ["money", "intelligence","funny"], "companies": ["c2"]},
+      {"id": "deadpool", "powers": ["immortality","funny"], "companies": ["c1"]}
+  ],
+  "companies": [
+      {"id": "c1", "company": "marvel"},
+      {"id": "c2", "company": "dc"}
+  ]
+}
